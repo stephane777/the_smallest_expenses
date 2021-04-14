@@ -1,0 +1,939 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should match the snapshot should match the snapshot after fetching data is success 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="sc-bdvvaa gbShRg header"
+        >
+          <img
+            class="sc-gsDJrp gLwQTZ"
+            data-testid="logo"
+            src=""
+          />
+          <span
+            class="sc-dkPtyc fkhCXL"
+          >
+            monzo
+          </span>
+        </div>
+        <main
+          class="sc-egiSv guBZkR"
+        >
+          
+          <div
+            class="sc-crHlIS esBBhw expense__header"
+          >
+            <h1
+              class="sc-bqiQRQ eXFeIY"
+            >
+              Current Account
+            </h1>
+            <span
+              class="sc-ksdxAp kTfBcU"
+            >
+              12345678 12-34-56 
+            </span>
+            <span
+              class="sc-hBURRC eTXnbk"
+            >
+              £1,250.32
+            </span>
+          </div>
+          <div
+            class="sc-kDThTU imuaVC"
+            style="margin-top: 4rem;"
+          >
+            <div
+              class="sc-kDThTU sc-fFehDp imuaVC epIRLE"
+            >
+              <div
+                class="sc-iqsfdx sc-bkkfTU bOVjmG enzepX"
+              >
+                Date
+              </div>
+              <div
+                class="sc-iqsfdx sc-bkkfTU bOVjmG enzepX"
+              >
+                Description
+              </div>
+              <div
+                class="sc-iqsfdx sc-bkkfTU bOVjmG enzepX"
+              >
+                Category
+              </div>
+              <div
+                class="sc-iqsfdx sc-bkkfTU bOVjmG enzepX"
+              >
+                Amount
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-kDThTU imuaVC"
+            style="margin-top: 1rem;"
+          >
+            <ul
+              class="sc-ieebsP qgUck"
+            >
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-07-01
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Asda
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Shopping
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -51.19
+                </span>
+              </li>
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-06-29
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  British Gas
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Bills
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -48.75
+                </span>
+              </li>
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-07-01
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Marks & Spencer
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Shopping
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -45.23
+                </span>
+              </li>
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-07-09
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Pret a Manger
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Eating Out
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -35.87
+                </span>
+              </li>
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-07-03
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Tesco
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Groceries
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -34.98
+                </span>
+              </li>
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-07-02
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Vodafone
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Entertainment
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -29.99
+                </span>
+              </li>
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-07-03
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Pact Coffee
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Shopping
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -19.99
+                </span>
+              </li>
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-07-01
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Wilko
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Shopping
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -10.76
+                </span>
+              </li>
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-07-04
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Costa Coffee
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Eating Out
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -3.75
+                </span>
+              </li>
+              <li
+                class="sc-furvIG krqrmL transaction"
+              >
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  2018-07-05
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Transport for London
+                </span>
+                <span
+                  class="sc-pVTma ddErkt"
+                >
+                  Transport
+                </span>
+                <span
+                  class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+                >
+                  £ -2.85
+                </span>
+              </li>
+            </ul>
+          </div>
+        </main>
+        <div
+          class="sc-hKwCoD CQaOl footer"
+        >
+          <footer
+            class="sc-eCImvq PvPWG"
+          >
+            <a
+              class="footer__link"
+              data-testid="github-link"
+              href="https://github.com/stephane777"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-gKckTs lehCFg"
+                data-testid="github-svg"
+              >
+                <use
+                  class="grid__icon-use"
+                  href="#icon-github"
+                />
+              </svg>
+            </a>
+            <p
+              class="sc-jRQAMF fvfIEH"
+            >
+              Created by Stephane Candelas.
+            </p>
+          </footer>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="sc-bdvvaa gbShRg header"
+      >
+        <img
+          class="sc-gsDJrp gLwQTZ"
+          data-testid="logo"
+          src=""
+        />
+        <span
+          class="sc-dkPtyc fkhCXL"
+        >
+          monzo
+        </span>
+      </div>
+      <main
+        class="sc-egiSv guBZkR"
+      >
+        
+        <div
+          class="sc-crHlIS esBBhw expense__header"
+        >
+          <h1
+            class="sc-bqiQRQ eXFeIY"
+          >
+            Current Account
+          </h1>
+          <span
+            class="sc-ksdxAp kTfBcU"
+          >
+            12345678 12-34-56 
+          </span>
+          <span
+            class="sc-hBURRC eTXnbk"
+          >
+            £1,250.32
+          </span>
+        </div>
+        <div
+          class="sc-kDThTU imuaVC"
+          style="margin-top: 4rem;"
+        >
+          <div
+            class="sc-kDThTU sc-fFehDp imuaVC epIRLE"
+          >
+            <div
+              class="sc-iqsfdx sc-bkkfTU bOVjmG enzepX"
+            >
+              Date
+            </div>
+            <div
+              class="sc-iqsfdx sc-bkkfTU bOVjmG enzepX"
+            >
+              Description
+            </div>
+            <div
+              class="sc-iqsfdx sc-bkkfTU bOVjmG enzepX"
+            >
+              Category
+            </div>
+            <div
+              class="sc-iqsfdx sc-bkkfTU bOVjmG enzepX"
+            >
+              Amount
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-kDThTU imuaVC"
+          style="margin-top: 1rem;"
+        >
+          <ul
+            class="sc-ieebsP qgUck"
+          >
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-07-01
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Asda
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Shopping
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -51.19
+              </span>
+            </li>
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-06-29
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                British Gas
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Bills
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -48.75
+              </span>
+            </li>
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-07-01
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Marks & Spencer
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Shopping
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -45.23
+              </span>
+            </li>
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-07-09
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Pret a Manger
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Eating Out
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -35.87
+              </span>
+            </li>
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-07-03
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Tesco
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Groceries
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -34.98
+              </span>
+            </li>
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-07-02
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Vodafone
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Entertainment
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -29.99
+              </span>
+            </li>
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-07-03
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Pact Coffee
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Shopping
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -19.99
+              </span>
+            </li>
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-07-01
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Wilko
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Shopping
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -10.76
+              </span>
+            </li>
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-07-04
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Costa Coffee
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Eating Out
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -3.75
+              </span>
+            </li>
+            <li
+              class="sc-furvIG krqrmL transaction"
+            >
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                2018-07-05
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Transport for London
+              </span>
+              <span
+                class="sc-pVTma ddErkt"
+              >
+                Transport
+              </span>
+              <span
+                class="sc-pVTma sc-jrQzUz ddErkt iKvSKb"
+              >
+                £ -2.85
+              </span>
+            </li>
+          </ul>
+        </div>
+      </main>
+      <div
+        class="sc-hKwCoD CQaOl footer"
+      >
+        <footer
+          class="sc-eCImvq PvPWG"
+        >
+          <a
+            class="footer__link"
+            data-testid="github-link"
+            href="https://github.com/stephane777"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <svg
+              class="sc-gKckTs lehCFg"
+              data-testid="github-svg"
+            >
+              <use
+                class="grid__icon-use"
+                href="#icon-github"
+              />
+            </svg>
+          </a>
+          <p
+            class="sc-jRQAMF fvfIEH"
+          >
+            Created by Stephane Candelas.
+          </p>
+        </footer>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`it should match the snapshot should match the snapshot while fetching data 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="sc-bdvvaa gbShRg header"
+        >
+          <img
+            class="sc-gsDJrp gLwQTZ"
+            data-testid="logo"
+            src=""
+          />
+          <span
+            class="sc-dkPtyc fkhCXL"
+          >
+            monzo
+          </span>
+        </div>
+        <main
+          class="sc-egiSv guBZkR"
+        >
+          
+          <div
+            class="sc-iCfLBT bzGHbE message"
+          >
+            <span>
+              Loading ...
+            </span>
+          </div>
+        </main>
+        <div
+          class="sc-hKwCoD CQaOl footer"
+        >
+          <footer
+            class="sc-eCImvq PvPWG"
+          >
+            <a
+              class="footer__link"
+              data-testid="github-link"
+              href="https://github.com/stephane777"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                class="sc-gKckTs lehCFg"
+                data-testid="github-svg"
+              >
+                <use
+                  class="grid__icon-use"
+                  href="#icon-github"
+                />
+              </svg>
+            </a>
+            <p
+              class="sc-jRQAMF fvfIEH"
+            >
+              Created by Stephane Candelas.
+            </p>
+          </footer>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="sc-bdvvaa gbShRg header"
+      >
+        <img
+          class="sc-gsDJrp gLwQTZ"
+          data-testid="logo"
+          src=""
+        />
+        <span
+          class="sc-dkPtyc fkhCXL"
+        >
+          monzo
+        </span>
+      </div>
+      <main
+        class="sc-egiSv guBZkR"
+      >
+        
+        <div
+          class="sc-iCfLBT bzGHbE message"
+        >
+          <span>
+            Loading ...
+          </span>
+        </div>
+      </main>
+      <div
+        class="sc-hKwCoD CQaOl footer"
+      >
+        <footer
+          class="sc-eCImvq PvPWG"
+        >
+          <a
+            class="footer__link"
+            data-testid="github-link"
+            href="https://github.com/stephane777"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <svg
+              class="sc-gKckTs lehCFg"
+              data-testid="github-svg"
+            >
+              <use
+                class="grid__icon-use"
+                href="#icon-github"
+              />
+            </svg>
+          </a>
+          <p
+            class="sc-jRQAMF fvfIEH"
+          >
+            Created by Stephane Candelas.
+          </p>
+        </footer>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
