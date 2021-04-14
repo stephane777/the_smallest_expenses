@@ -5,8 +5,8 @@
 The goal for this project was to
 
 1. fetch expenses from this [endpoint](http://www.mocky.io/v2/5c62e7c33000004a00019b05)
-2. filter the income
-3. keep the smallest expenses from the result and display them in the UI.
+2. filter the incomes
+3. keep the 10 smallest expenses from the result and display them in the UI.
 
 ### Overview
 
